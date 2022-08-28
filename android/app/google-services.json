@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "978124870614",
+    "firebase_url": "https://reactnative-2b30c.firebaseio.com",
+    "project_id": "reactnative-2b30c",
+    "storage_bucket": "reactnative-2b30c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978124870614:android:5a5ae6018c64d6f0310a77",
+        "android_client_info": {
+          "package_name": "com.recipebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978124870614-i62oo2747heikkqo1eu1iuqe9p4drc2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.recipebook",
+            "certificate_hash": "e20fdc13526aa394711a5ee67548ccbf0a5ee68a"
+          }
+        },
+        {
+          "client_id": "978124870614-1fe9rf5r390ulf9s7dfp9rfiqgoithfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM6nHNNki_ioxmMEyG3Kb6AVRZ7SYABtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978124870614-1fe9rf5r390ulf9s7dfp9rfiqgoithfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
